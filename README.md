@@ -1,6 +1,6 @@
 # PerfTimer
 
-A simple header-only performance timer for CPP (c++). A dedicated thread will print the data of all timers periodically.
+A simple **thread-safe**, **header-only** performance timer for CPP (c++). A dedicated thread will collect data and print all timers periodically.
 
 ![](images/img.jpg)
 
